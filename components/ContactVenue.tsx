@@ -40,7 +40,7 @@ export default function ContactVenue() {
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
-                allowFullScreen=""
+                allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
                 title="Party Partners Studio Location - Banashankari 3rd Stage, Bengaluru"
