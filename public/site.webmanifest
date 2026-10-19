@@ -1,0 +1,23 @@
+{
+  "name": "Party Partners - Event Rentals & Decorations",
+  "short_name": "Party Partners",
+  "description": "Luxury event rentals and decorations in Banashankari 3rd Stage, Bengaluru. 4.9 ★ rated (450+ reviews). Backdrops starting at ₹4,000.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0C10",
+  "theme_color": "#D4AF37",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
